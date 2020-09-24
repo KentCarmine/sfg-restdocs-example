@@ -1,20 +1,24 @@
-|===
-|Path|Type|Description
+    |===
+        |Path|Type|Description|Constraints
 
-|`+beerName+`
-|`+String+`
-|Name of the beer
+        |beerName
+        |String
+        |Name of the beer
+        |
 
-|`+beerStyle+`
-|`+String+`
-|Style of the beer
+        |beerStyle
+        |String
+        |Style of the beer
+        |
 
-|`+upc+`
-|`+Number+`
-|Beer UPC
+        |upc
+        |Number
+        |Beer UPC
+        |
 
-|`+price+`
-|`+Number+`
-|Beer price
+        |price
+        |Number
+        |Beer price
+        |
 
-|===
+        |===
